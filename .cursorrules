@@ -1,0 +1,17 @@
+{
+    "directory-structure": {
+        ".cursorrules": null,
+        ".vscode": {
+            "settings.json": null
+        },
+        "assets": {
+            "guide.png": null
+        },
+        "DirectoryWatcher.exe": null,
+        "gui.py": null,
+        "LICENSE": null,
+        "README.md": null,
+        "requirements.txt": null,
+        "watcher.py": null
+    }
+}
