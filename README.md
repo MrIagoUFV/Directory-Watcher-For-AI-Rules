@@ -5,7 +5,7 @@ A lightweight, modern tool for real-time directory structure monitoring and docu
 ## 📺 Watch the Demo & Tutorial
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4Ezsegd4mU" title="Directory Watcher Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="935" height="526" src="https://www.youtube.com/embed/n4Ezsegd4mU" title="Curso de Programação com IA em Python - Como Programar com IA do jeito certo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## ✨ Features
