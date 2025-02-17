@@ -5,7 +5,9 @@ A lightweight, modern tool for real-time directory structure monitoring and docu
 ## 📺 Watch the Demo & Tutorial
 
 <div align="center">
-  <iframe width="935" height="526" src="https://www.youtube.com/embed/n4Ezsegd4mU" title="Curso de Programação com IA em Python - Como Programar com IA do jeito certo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Demonstration](https://i.ytimg.com/an_webp/n4Ezsegd4mU/mqdefault_6s.webp?du=3000&sqp=CK3Hzr0G&rs=AOn4CLAzSf2Gsyyjrldt904tw3dxFeXclQ)](https://youtu.be/n4Ezsegd4mU?si=EWZkUDIhO_MPNJKL)
+  
 </div>
 
 ## ✨ Features
