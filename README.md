@@ -6,7 +6,7 @@ A lightweight, modern tool for real-time directory structure monitoring and docu
 
 <div align="center">
 
-[![Demonstration](https://i.ytimg.com/an_webp/n4Ezsegd4mU/mqdefault_6s.webp?du=3000&sqp=CK3Hzr0G&rs=AOn4CLAzSf2Gsyyjrldt904tw3dxFeXclQ)](https://youtu.be/n4Ezsegd4mU?si=EWZkUDIhO_MPNJKL)
+[![Demonstration](https://i.ytimg.com/an_webp/rzwATkD5daM/mqdefault_6s.webp?du=3000&sqp=CLaW070G&rs=AOn4CLB6wdZAjSp8Zsy3-xgvIQGWAnck7A)](https://www.youtube.com/watch?v=rzwATkD5daM)
   
 </div>
 
